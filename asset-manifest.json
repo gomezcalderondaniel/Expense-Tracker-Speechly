@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Expense-Tracker-Speechly/static/css/main.6bb51764.chunk.css",
+    "main.js": "/Expense-Tracker-Speechly/static/js/main.37945302.chunk.js",
+    "main.js.map": "/Expense-Tracker-Speechly/static/js/main.37945302.chunk.js.map",
+    "runtime-main.js": "/Expense-Tracker-Speechly/static/js/runtime-main.62a96fe5.js",
+    "runtime-main.js.map": "/Expense-Tracker-Speechly/static/js/runtime-main.62a96fe5.js.map",
+    "static/js/2.4e1a08e4.chunk.js": "/Expense-Tracker-Speechly/static/js/2.4e1a08e4.chunk.js",
+    "static/js/2.4e1a08e4.chunk.js.map": "/Expense-Tracker-Speechly/static/js/2.4e1a08e4.chunk.js.map",
+    "index.html": "/Expense-Tracker-Speechly/index.html",
+    "static/css/main.6bb51764.chunk.css.map": "/Expense-Tracker-Speechly/static/css/main.6bb51764.chunk.css.map",
+    "static/js/2.4e1a08e4.chunk.js.LICENSE.txt": "/Expense-Tracker-Speechly/static/js/2.4e1a08e4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Expense-Tracker-Speechly/static/media/money.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a96fe5.js",
+    "static/js/2.4e1a08e4.chunk.js",
+    "static/css/main.6bb51764.chunk.css",
+    "static/js/main.37945302.chunk.js"
+  ]
+}
